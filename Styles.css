@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.ticker {
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  display: inline-block;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+#stock-price {
+  font-size: 2em;
+  color: #28a745;
+}
+
+#last-updated {
+  margin-top: 10px;
+  font-size: 0.9em;
+  color: #555;
+}
